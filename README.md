@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-Stack Developer.<br>coding<br>chess
+Full-Stack Developer.<br>DevOps<br>coding<br>chess
 
 
 ## 🌐 Socials:
