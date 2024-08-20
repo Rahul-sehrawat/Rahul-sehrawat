@@ -1,6 +1,7 @@
 # 💫 About Me:
-I'm a recent graduate with a strong foundation in full stack development, particularly with the MERN stack (MongoDB, Express.js, React, and Node.js). Alongside my development skills, I also have a foundational understanding of DevOps practices.<br>
-Full-Stack Developer.<br>DevOps<br>coding<br>chess
+I'm a recent graduate with a strong foundation in full stack development, particularly with the MERN stack (MongoDB, Express.js, React, and Node.js).
+I also have a foundational understanding of DevOps practices.<br>
+<br>coding<br>chess
 
 
 ## 🌐 Socials:
