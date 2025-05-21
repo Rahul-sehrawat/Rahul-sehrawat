@@ -1,6 +1,8 @@
 # 💫 About Me:
-I'm a recent graduate with a strong foundation in full stack development, particularly with the MERN stack (MongoDB, Express.js, React, and Node.js).
-I also have a foundational understanding of DevOps practices.<br>
+I’ve always been drawn to the intersection of data, creativity, and problem-solving. With a background in data analytics and visualization, I specialize in transforming raw data into meaningful insights that drive smarter decisions using visualization tools like Power Bi.
+
+I thrive in environments where I can continuously learn, optimize processes, and solve complex challenges. Whether it’s uncovering patterns in data or finding innovative ways to improve efficiency, I’m always looking for opportunities to make an impact.
+<br>
 <br>coding<br>chess
 
 
