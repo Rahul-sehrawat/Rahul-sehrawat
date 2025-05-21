@@ -14,6 +14,6 @@ I thrive in environments where I can continuously learn, optimize processes, and
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Rahul-sehrawat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rahul-sehrawat&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-sehrawat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
