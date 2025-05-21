@@ -3,7 +3,7 @@ I’ve always been drawn to the intersection of data, creativity, and problem-so
 
 I thrive in environments where I can continuously learn, optimize processes, and solve complex challenges. Whether it’s uncovering patterns in data or finding innovative ways to improve efficiency, I’m always looking for opportunities to make an impact.
 <br>
-<br>coding<br>chess
+
 
 
 ## 🌐 Socials:
